@@ -1,2 +1,2 @@
 # rlogger
-good test
+test
