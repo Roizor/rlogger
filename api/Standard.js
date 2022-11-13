@@ -1,7 +1,8 @@
+const Colors = require('./Color');
 class Standard {
     static main(toLogOrNotToLog) {
         // will figure something better
-        console.log(toLogOrNotToLog);
+        console.log(Colors.Reset+toLogOrNotToLog+Colors.Reset);
     }
 }
 
