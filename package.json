@@ -1,5 +1,5 @@
 {
-  "name": "rlogger",
+  "name": "@roizor/rlogger",
   "version": "1.0.0",
   "description": "JS log utility that tries to keep it simple.",
   "main": "index.js",
